@@ -48,8 +48,10 @@ Con esto ya vemos que aparece el cambio realizado:
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 
+La palabra apartado toda en mayusculas
+![img_10.png](img_10.png)
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
-
+![img_11.png](img_11.png)
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
