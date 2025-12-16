@@ -44,7 +44,7 @@ Luego un git merge origin/master (no lo pongo en captura porque ya lo hice y se 
 
 Con esto ya vemos que aparece el cambio realizado:
 ![img_9.png](img_9.png)
-### Apartado 3
+### APARTADO 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 
