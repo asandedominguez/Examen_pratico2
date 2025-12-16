@@ -10,7 +10,13 @@
 ### Apartado 1
 
 - Clona este repositorio.
-- Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
+Iremos al apartado que vemos en la imagen. 
+![img.png](img.png)
+Ponemos la URL del repositorio
+![img_3.png](img_3.png)
+En manage remotes pondremos nuestro repositorio
+![img_2.png](img_2.png)
+Haremos commit y push y listo
 ## ADRIÁN SANDE DOMÍNGUEZ
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
