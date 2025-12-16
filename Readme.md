@@ -52,6 +52,9 @@ La palabra apartado toda en mayusculas
 ![img_10.png](img_10.png)
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 ![img_11.png](img_11.png)
+Tuve que hacer un --rebase por un commit que tenia mal hecho
+![img_12.png](img_12.png)
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+El proceso esta en las anteriores capturas. Primero hice un cambio en GitHub, le hice commit, en local hice un git pull origin/master, como tuve un error tuve que realizar el pull con --rebase, por el último comprobe los cambios y ahi estaban 
