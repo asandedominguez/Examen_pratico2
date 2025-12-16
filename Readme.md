@@ -20,6 +20,7 @@ Haremos commit y push y listo
 ## ADRIÁN SANDE DOMÍNGUEZ
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+
 Necesitamos tener permisos de escritura en el repositorio remoto, de esta forma podremos hacer push a nuestro propio repo, por ello también despues de clonarlo debemos establecer a donde queremos subir los commits y push en el lugar que indique en la tercera imagen
 
 ### Apartado 2
